@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - Qualtrics (2.6.0)
+  - qualtrics_digital_flutter_plugin (0.0.1):
+    - Flutter
+    - Qualtrics
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - qualtrics_digital_flutter_plugin (from `.symlinks/plugins/qualtrics_digital_flutter_plugin/ios`)
+
+SPEC REPOS:
+  trunk:
+    - Qualtrics
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  qualtrics_digital_flutter_plugin:
+    :path: ".symlinks/plugins/qualtrics_digital_flutter_plugin/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  Qualtrics: 2dcb40045de290318b0b65e0a9509ae037a970d1
+  qualtrics_digital_flutter_plugin: e103f6491e42441ae0854ea5eb7b639430fd469f
+
+PODFILE CHECKSUM: 7368163408c647b7eb699d0d788ba6718e18fb8d
+
+COCOAPODS: 1.11.3
